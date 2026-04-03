@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Kotlin_Syntax_for_Jetpack_Compose-Changing_the_Order_of_Arguments" external.linked.project.path="$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Changing the Order of Arguments" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Lab_1._Kotlin_basics" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Changing the Order of Arguments">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Changing the Order of Arguments/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Changing the Order of Arguments/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Changing the Order of Arguments/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

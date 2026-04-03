@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Object-Oriented_Programming_in_Kotlin-Combined_Task_-_Object-Oriented_Programming" external.linked.project.path="$MODULE_DIR$/../../../../Object-Oriented Programming in Kotlin/Combined Task - Object-Oriented Programming" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Lab_1._Kotlin_basics" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Object-Oriented Programming in Kotlin/Combined Task - Object-Oriented Programming">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Object-Oriented Programming in Kotlin/Combined Task - Object-Oriented Programming/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Object-Oriented Programming in Kotlin/Combined Task - Object-Oriented Programming/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Object-Oriented Programming in Kotlin/Combined Task - Object-Oriented Programming/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

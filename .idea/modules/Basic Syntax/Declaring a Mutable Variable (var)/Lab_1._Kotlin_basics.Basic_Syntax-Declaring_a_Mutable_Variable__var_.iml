@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Basic_Syntax-Declaring_a_Mutable_Variable__var_" external.linked.project.path="$MODULE_DIR$/../../../../Basic Syntax/Declaring a Mutable Variable (var)" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Lab_1._Kotlin_basics" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Basic Syntax/Declaring a Mutable Variable (var)">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Basic Syntax/Declaring a Mutable Variable (var)/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Basic Syntax/Declaring a Mutable Variable (var)/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Basic Syntax/Declaring a Mutable Variable (var)/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

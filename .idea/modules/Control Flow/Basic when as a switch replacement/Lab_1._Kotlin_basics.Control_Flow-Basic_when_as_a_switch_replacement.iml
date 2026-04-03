@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Control_Flow-Basic_when_as_a_switch_replacement" external.linked.project.path="$MODULE_DIR$/../../../../Control Flow/Basic when as a switch replacement" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Lab_1._Kotlin_basics" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Control Flow/Basic when as a switch replacement">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Control Flow/Basic when as a switch replacement/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Control Flow/Basic when as a switch replacement/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Control Flow/Basic when as a switch replacement/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

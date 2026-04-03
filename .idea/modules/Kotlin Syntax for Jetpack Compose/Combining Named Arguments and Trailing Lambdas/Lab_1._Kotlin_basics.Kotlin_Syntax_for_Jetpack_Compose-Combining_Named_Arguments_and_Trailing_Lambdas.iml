@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Kotlin_Syntax_for_Jetpack_Compose-Combining_Named_Arguments_and_Trailing_Lambdas" external.linked.project.path="$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Combining Named Arguments and Trailing Lambdas" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Lab_1._Kotlin_basics" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Combining Named Arguments and Trailing Lambdas">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Combining Named Arguments and Trailing Lambdas/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Combining Named Arguments and Trailing Lambdas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Kotlin Syntax for Jetpack Compose/Combining Named Arguments and Trailing Lambdas/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
