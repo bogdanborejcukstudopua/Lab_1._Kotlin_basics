@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Collections_and_Extension_Functions-Collection_Call_Chains" external.linked.project.path="$MODULE_DIR$/../../../../Collections and Extension Functions/Collection Call Chains" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Lab_1._Kotlin_basics" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Collections and Extension Functions/Collection Call Chains">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections and Extension Functions/Collection Call Chains/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections and Extension Functions/Collection Call Chains/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Collections and Extension Functions/Collection Call Chains/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
